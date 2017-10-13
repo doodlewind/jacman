@@ -85,12 +85,9 @@ links:
   Sadhen: http://sadhen.com, sadhen
   快乐小小利: http://chenyuelili.com/, chenyueli
   Lifecycle: https://richardcao.me/, richardcao
-  suckless: https://suckless.info/, wangyu
-  硕鼠宝: http://shuoshubao.github.io/#node, fangtao
-
 
 #### Comment
-duoshuo_shortname: doodlewind   ## e.g. wuchong   your duoshuo short name.
+duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
