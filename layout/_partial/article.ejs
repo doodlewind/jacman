@@ -27,6 +27,7 @@
     <a href="<%- config.root %><%- item.path %>" title="<%= item.title %>" itemprop="url">
   <% } %>
     <h1 itemprop="name"><%= item.title %></h1>
+    <!--
     <% if (desc){ %>
      <% if(item.description){ %>
       <p itemprop="description" ><%- item.description %></p>
@@ -37,6 +38,7 @@
         <% } %>
     <% } %>
     <time datetime="<%= date_xml(item.date) %>" itemprop="datePublished"><%= item.date.format(config.date_format) %></time>
+    -->
   </a>
 </section>
 <% } %>
